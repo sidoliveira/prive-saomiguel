@@ -1,0 +1,30 @@
+.title-adm .rwmb-label {
+	width: auto;
+	font-weight: bold;
+	padding-top: 6px;
+	padding-right: 20px;
+}
+.title-adm input {
+	width: 80%;
+	max-width: 400px;
+}
+
+.editor-adm .rwmb-label {
+	display: none;
+}
+.editor-adm .rwmb-input {
+	width: 100% !important;
+}
+
+.rwmb-input .rwmb-text_list-clone {
+	margin-bottom: 30px;
+}
+
+.rwmb-input .rwmb-text_list-clone label {
+	display: block;
+	margin: 10px 0;
+}
+
+.preco-casa .rwmb-label {
+	font-weight: bold;
+}
